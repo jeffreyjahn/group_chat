@@ -1,0 +1,22 @@
+#tupac{
+    padding: auto;
+}
+#chatroom{
+    margin: 20px;
+    background-color: lightgray;
+    border: black solid 1px;
+    height: 800px;
+    overflow-y: scroll;
+}
+.wat{
+    margin: 20px;
+}
+#add_message{
+    width: 97%;
+}
+.join{
+    color:green;
+}
+.exit{
+    color:red;
+}
